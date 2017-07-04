@@ -6,6 +6,7 @@
         <h1>Mehamemet</h1>
         <p class="lead">Bootstrap is a free UI framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
         <p><a href="#" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
     </div>
 
     <div class="row">
