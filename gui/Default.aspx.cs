@@ -9,9 +9,10 @@ namespace gui
 {
     public partial class Default : System.Web.UI.Page
     {
-        protected void Page_Load(object sender, EventArgs e)
+        protected void Button2_Click(object sender, EventArgs e)
         {
-
+            Server.Transfer("Form_Test.aspx",true);
         }
+
     }
 }

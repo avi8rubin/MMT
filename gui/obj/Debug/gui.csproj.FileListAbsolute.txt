@@ -66,3 +66,4 @@ C:\Users\Avi\Desktop\MMT_Project\Web Project\MMT\gui\bin\Microsoft.CodeDom.Provi
 C:\Users\Avi\Desktop\MMT_Project\Web Project\MMT\gui\obj\Debug\gui.csprojResolveAssemblyReference.cache
 C:\Users\Avi\Desktop\MMT_Project\Web Project\MMT\gui\obj\Debug\gui.dll
 C:\Users\Avi\Desktop\MMT_Project\Web Project\MMT\gui\obj\Debug\gui.pdb
+C:\Users\Avi\Desktop\MMT_Project\Web Project\MMT\gui\bin\MySql.Data.dll
