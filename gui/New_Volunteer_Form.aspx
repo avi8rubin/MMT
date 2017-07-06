@@ -5,7 +5,8 @@
     <div class="jumbotron">
         <h1>Mehamemet</h1>
         <p class="lead">Bootstrap is a free UI framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="#" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <p><a href="#" class="btn btn-primary btn-lg">Learn more &raquo;</a><asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
+        </p>
     </div>
 
     <div class="row">
