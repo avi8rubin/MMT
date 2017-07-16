@@ -51,7 +51,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Sample Application</p>
+                <p>&copy; <%: DateTime.Now.Year %> - avi rubin need to change this</p>
             </footer>
         </div>
     </form>
